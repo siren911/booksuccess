@@ -35,7 +35,7 @@ const steps = ["책 문장", "내 성찰", "AI 질문", "대화 기록"];
 
 const seedCoaches: CoachNote[] = [
   {
-    name: "1번 코치",
+    name: "민희순 코치",
     chapter: "마음을 움직이는 말",
     page: "",
     quote: "상대가 스스로 중요하다고 느끼게 하라.",
@@ -44,7 +44,7 @@ const seedCoaches: CoachNote[] = [
     questionSeed: "상대의 체면과 자존심을 세우는 대화",
   },
   {
-    name: "2번 코치",
+    name: "문규선 코치",
     chapter: "좋은 청중이 되는 법",
     page: "",
     quote: "진심 어린 관심은 대화를 바꾼다.",
@@ -53,7 +53,7 @@ const seedCoaches: CoachNote[] = [
     questionSeed: "임원 시절 회의에서 듣는 태도",
   },
   {
-    name: "3번 코치",
+    name: "김종범 코치",
     chapter: "반감을 줄이는 표현",
     page: "",
     quote: "논쟁에서 이기는 가장 좋은 방법은 논쟁을 피하는 것이다.",
